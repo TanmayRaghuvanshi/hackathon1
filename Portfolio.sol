@@ -18,7 +18,6 @@ contract Portfolio{
       string knowledgeAcquired;
       string instutionName;
   }
-  //check expreinece code with your solution
   struct Experience{
       uint id;
       string date;
@@ -30,9 +29,9 @@ contract Portfolio{
   Education[3] public educationDetails;
   Experience[3] public experienceDetails;
 
-  string public imageLink="Add your cid";
+  string public imageLink="QmXAsP6BfnRg33nWurunEywyBtwymMG3tT3StdQpR9g4Zi";
   string public description="over 6 months of practical experience with a good knowledge in blockchain development.i help web3 community by contributing in the web3 space.";
-  string public resumeLink="Add your cid";
+  string public resumeLink="QmYfHrew5LZrKr6t8ck6oHRKVc4984ZZRYcqoRx1sjrPMP";
   uint projectCount;
   uint educationCount;
   uint experienceCount;
