@@ -15,12 +15,12 @@ const Experience = () => {
                         return (   
                         <div className="edu-card">
                         <p className="card-text1">
-                            <SlCalender className='icon' /> 10/05/2013 - 10/05/2014
+                            <SlCalender className='icon' /> 10/05/2020 - 10/05/2021
                         </p>
                         <h3 className="card-text2">Intermediate</h3>
-                        <p className="card-text3">Description Of Your Course</p>
+                        <p className="card-text3">learned python coding</p>
                         <p className="card-text4">
-                        Institution Name
+                        XYZ school
                         </p>
                     </div>)
                     })}
@@ -32,34 +32,34 @@ const Experience = () => {
                     <h1 className="edu-tittle">Experience</h1>
                     <div className="edu-card">
                         <p className="card-text1">
-                            <SlCalender className='icon' /> March 2013 - Present
+                            <SlCalender className='icon' /> March 2022 - March 2023
                         </p>
                         <h3 className="card-text2">Blockchain Developer Intern</h3>
-                        <p className="card-text3">learned this this and that.learned this this and that.learned this this and that.learned this this and that.</p>
+                        <p className="card-text3">learnt minting and mining in blockchain</p>
                         <p className="card-text4">
-                            Code Eater
+                            Coder
                         </p>
                     </div>
                     {/* card2 */}
                     <div className="edu-card">
                         <p className="card-text1">
-                            <SlCalender className='icon' /> March 2013 - Present
+                            <SlCalender className='icon' /> March 2023 - Present
                         </p>
                         <h3 className="card-text2">Blockchain Developer Intern</h3>
-                        <p className="card-text3">learned this this and that.learned this this and that.learned this this and that.learned this this and that.</p>
+                        <p className="card-text3">learned defi</p>
                         <p className="card-text4">
-                            Code Eater
+                            Coder
                         </p>
                     </div>
                     {/* card3 */}
                     <div className="edu-card">
                         <p className="card-text1">
-                            <SlCalender className='icon' /> March 2013 - Present
+                            <SlCalender className='icon' /> November 2023 - Present
                         </p>
-                        <h3 className="card-text2">Blockchain Developer Intern</h3>
-                        <p className="card-text3">learned this this and that.learned this this and that.learned this this and that.learned this this and that.</p>
+                        <h3 className="card-text2">cloud computer</h3>
+                        <p className="card-text3">learned cloud computing basics</p>
                         <p className="card-text4">
-                            Code Eater
+                            Coder
                         </p>
                     </div>
                 </div>

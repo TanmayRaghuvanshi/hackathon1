@@ -24,7 +24,7 @@ const Wallet =({saveState})=>{
       return<>
       <div className="header">
       {isAndroid  && <button className="connectBTN">
-         <a href="https://metamask.app.link/dapp/sriche.netlify.app/">Click For Mobile</a>
+         <a href="https://metamask.app.link/dapp/localhost:5175/">Click For Mobile</a>
         </button>  } 
        <button className="connectBTN" onClick={init} disabled={!connected}> {connected? "Connect Metamask":"Connected"}</button>
       </div>
